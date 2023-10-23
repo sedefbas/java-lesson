@@ -1,0 +1,2 @@
+public class Daire {
+}
